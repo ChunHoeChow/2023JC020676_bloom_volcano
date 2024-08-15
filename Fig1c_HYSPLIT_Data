@@ -1,3 +1,0 @@
-Fig1c (Fig1c_data_HYSPLIT.mat) --> HYSPLIT_track.m 
-                                   (HYSPLIT_data.mat) --> HYSPLIT_txt2mat.m
-                                                          ([GitHub] tdump.163574_nohead.txt from https://www.ready.noaa.gov/hypub-bin/trajtype.pl, NOAA ARL)
