@@ -1,5 +1,0 @@
-high_chl_bloom_JJ_nocloud_BGC.mat can be obtained from ../Fig3_forcing/
-chl L4 data *.nc files can be downloaded from https://doi.org/10.48670/moi-00281, CMEMS
-TS & MLD gridded data *.nc files can be downloaded from https://doi.org/10.48670/moi-00052, CMEMS
-All Argo original data can be obtained from ../All_Argo_files/
-argo_HLCC_water_data_Feb_Sep_without_repeat_profile_ADJUSTED.mat can be created by running read_argo_del_repeat_profile_adjusted.m that read in Argo original files given in ../All_Argo_files/
